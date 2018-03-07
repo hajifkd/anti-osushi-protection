@@ -1,0 +1,12 @@
+{
+  "name": "Anti-osushi-protection",
+  "version": "0.0.1",
+  "description": "An anti program for the osushi protection",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}

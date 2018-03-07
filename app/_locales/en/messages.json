@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Anti osushi-protection",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "Anti o-prot",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "An anti program for the osushi protection",
+    "description": "The description of the application"
+  }
+}
