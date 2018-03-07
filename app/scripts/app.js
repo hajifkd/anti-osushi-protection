@@ -1,3 +1,3 @@
 var script = document.createElement("script");
-script.textContent = "console.clear = () => {}; var y = console.dir; console.dir = x => { try { if (x.tagName.toLowerCase() == 'usingdevtool') return; } catch(e) {}; return y(x); };";
+script.textContent = "console.clear = () => {}; console.dir = () => {};";
 document.documentElement.appendChild(script);
